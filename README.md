@@ -27,7 +27,7 @@
 - 💡 Intéressé par tout ce qui touche à la Full Stack, de la gestion de bases de données au développement front-end.
 - 🎮 Fan de jeux vidéos et toujours prêt pour une nouvelle aventure.
 - 🥁 Batteur dans l'âme, je trouve dans la musique une autre forme de créativité.
-- 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/Vrizix).
+- 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/Vriziix).
 - 💬 N'hésitez pas à me contacter pour discuter de technologie, musique ou jeux !
 
 <br />
