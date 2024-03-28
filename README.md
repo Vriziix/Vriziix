@@ -54,7 +54,7 @@
 
 <h2 align="center">🤝 Support</h2>
 
-<p align="center">🎀 Les contributions (via le <a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), les 🔥 problèmes, et les 🥮 demandes de fonctionnalités sont les bienvenus !</p>
+<p align="center">🎀 Les contributions (via le <a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), les problèmes, et les demandes de fonctionnalités sont les bienvenus !</p>
 
 <p align="center">💙 Si vous aimez mes projets, donnez-leur une ⭐ et partagez-les avec vos amis !</p>
 <p align="center">Réalisé avec ❤️ par Axel Fort</p>
