@@ -49,7 +49,7 @@
 ### - Ce que je fais
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif](https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" />
 </p>
 
 <h2 align="center">🤝 Support</h2>
