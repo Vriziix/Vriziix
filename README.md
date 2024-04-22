@@ -3,7 +3,6 @@
 </div>
 
 <p align='center'>
-   <!-- Ici, vous pouvez ajouter des liens vers vos profils sociaux ou professionnels comme LinkedIn, Twitter, etc. -->
 </p>
 
 <div align="center">
@@ -11,7 +10,6 @@
 </div>
 
 <p align="center">
-   <!-- Badge de suivi Twitter ou autre, si vous le souhaitez -->
    <a href="https://visitor-badge.glitch.me/badge?page_id=Vrizix.Vrizix"> <img alt="Axel Fort github" src="https://visitor-badge.glitch.me/badge?page_id=Vrizix.Vrizix"> </a>
 </p>
 
@@ -35,7 +33,6 @@
 ### - Langages et Outils...
 
 <p align="center">
-  <!-- Ici, vous pouvez ajouter des badges pour les langages et outils que vous utilisez -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
