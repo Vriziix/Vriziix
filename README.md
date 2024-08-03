@@ -9,10 +9,6 @@
 <h3> 🙎 Axel Fort | 💻 Développeur Web Full Stack | 🌍 France <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=Vrizix.Vrizix"> <img alt="Axel Fort github" src="https://visitor-badge.glitch.me/badge?page_id=Vrizix.Vrizix"> </a>
-</p>
-
 <h5 align="center">
    <i>⚡️Passionné par l'informatique, les jeux vidéos et la musique, je fais de la batterie quand je ne code pas⚡️</i>
 </h5>
